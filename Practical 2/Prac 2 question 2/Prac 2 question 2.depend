@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709738881 source:c:\users\202242107\onedrive - university of fort hare\csc211 pracs\practical 2\prac 2 question 2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
